@@ -1238,6 +1238,11 @@ text-align: center;
  
 }
 
+.center2{
+padding-left: 100px
+}
+
+
 .wrapperstyle1 {
 margin-top:  -55px;
 
@@ -1361,5 +1366,5 @@ width: 100%;
 
 
 .size3 {
-width: 80%;
+width: 75%;
 }
